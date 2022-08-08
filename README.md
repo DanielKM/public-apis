@@ -104,6 +104,7 @@
 * [Books](#books)
 * [Business](#business)
 * [Calendar](#calendar)
+* [Canadian Water Quality Data](#canadian-water-quality-data)
 * [Cloud Storage & File Sharing](#cloud-storage--file-sharing)
 * [Continuous Integration](#continuous-integration)
 * [Cryptocurrency](#cryptocurrency)
@@ -352,6 +353,12 @@ API | Description | Auth | HTTPS | CORS |
 | [Russian Calendar](https://github.com/egno/work-calendar) | Check if a date is a Russian holiday or not | No | Yes | No |
 | [UK Bank Holidays](https://www.gov.uk/bank-holidays.json) | Bank holidays in England and Wales, Scotland and Northern Ireland | No | Yes | Unknown |
 
+**[⬆ Back to Index](#index)**
+### Canadian Water Quality Data
+API | Description | Auth | HTTPS | CORS |
+|---|---|---|---|---|
+| [DataStream](https://github.com/datastreamapp/api-docs) | An open access platform for sharing water quality data in Canada | `apiKey` | Yes | Yes |
+    
 **[⬆ Back to Index](#index)**
 ### Cloud Storage & File Sharing
 API | Description | Auth | HTTPS | CORS |
